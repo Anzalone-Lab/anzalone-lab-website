@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to the Clinical informatics for Analytics and Translation (CAT) Lab
+# Welcome to the Clinical Analytics and Translation (CAT) Lab
 
-The Clinical informatics for Analytics and Translation (CAT) Lab is dedicated to advancing the use of real-world clinical data to improve health outcomes and reduce disparities, particularly in rural and underserved populations. Our work sits at the intersection of clinical informatics, data science, and population health.
+The Clinical Analytics and Translation (CAT) Lab is dedicated to advancing the use of real-world clinical data to improve health outcomes and reduce disparities, particularly in rural and underserved populations. Our work sits at the intersection of clinical informatics, data science, and population health.
 
 We specialize in the secondary use of electronic health record (EHR) data, supporting large-scale observational studies and multisite collaborations. Our research emphasizes reproducibility, data quality, and methodological rigor across complex, heterogeneous healthcare data sources.
 

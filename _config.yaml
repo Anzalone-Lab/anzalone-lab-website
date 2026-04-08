@@ -1,7 +1,8 @@
 # site properties and page defaults
-title: Anzalone-Lab
+title: Clinical Analytics and Translation (CAT) Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+name: Clinical Analytics and Translation (CAT) Lab
+description: Leveraging real-world clinical data and advanced analytics to improve population health and reduce disparities.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
