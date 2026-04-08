@@ -1,9 +1,23 @@
 ---
 ---
 
-# Anzalone-Lab's Website
+# Welcome to the Anzalone Lab
 
-An engaging 1-3 sentence description of your lab.
+The Anzalone Lab is dedicated to advancing the use of real-world clinical data to improve health outcomes and reduce disparities, particularly in rural and underserved populations. Our work sits at the intersection of clinical informatics, data science, and population health.
+
+We specialize in the secondary use of electronic health record (EHR) data, supporting large-scale observational studies and multisite collaborations. Our research emphasizes reproducibility, data quality, and methodological rigor across complex, heterogeneous healthcare data sources.
+
+The lab plays an active role in national research initiatives, including PCORnet, the National Clinical Cohort Collaborative, All of Us, Cosmos, and TriNetX, where we contribute to data standardization, governance, and cross-site analytics. We develop scalable approaches to cohort identification, data harmonization, and outcome modeling that support both research and real-world decision-making.
+
+Our work is particularly focused on:
+- Understanding rural–urban disparities in health outcomes  
+- Developing interoperable data infrastructure and standards  
+- Applying advanced statistical and machine learning methods to clinical data  
+- Supporting equitable and transparent use of health data in research  
+
+Based at the University of Nebraska Medical Center, the lab collaborates with clinicians, researchers, and public health partners to translate data into meaningful improvements in care and policy.
+
+## This site is a work in progress!
 
 {% include section.html %}
 
